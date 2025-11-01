@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🧭 Admin Dashboard — Next.js + Tailwind + shadcn/ui
 
-## Getting Started
+A modern, responsive **Admin Dashboard** built with **Next.js**, **Tailwind CSS**, and **shadcn/ui**.  
+It includes a collapsible sidebar, user dropdown menu, dynamic avatar fallback, and clean navigation sections for analytics, projects, team, reports, and more.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+✅ **Next.js App Router** (with TypeScript)  
+✅ **Responsive Sidebar Layout** using shadcn/ui  
+✅ **Dynamic Avatar Fallback** (first letter if image missing)  
+✅ **User Menu with Dropdown** — Account, Billing, Notifications, Logout  
+✅ **Clean Navigation Structure**  
+✅ **Tabler Icons Integration** for a lightweight icon set  
+✅ **Modern UI with Tailwind CSS**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🧩 Tech Stack
 
-## Learn More
+| Technology | Purpose |
+|-------------|----------|
+| [Next.js 15+](https://nextjs.org) | React framework with App Router |
+| [TypeScript](https://www.typescriptlang.org/) | Type safety and better DX |
+| [Tailwind CSS](https://tailwindcss.com/) | Utility-first styling |
+| [shadcn/ui](https://ui.shadcn.com/) | Accessible, composable UI components |
+| [Tabler Icons](https://tabler.io/icons) | Clean and consistent icons |
+| [Lucide React](https://lucide.dev/) | (Optional) extra icons for future use |
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📂 Folder Structure
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

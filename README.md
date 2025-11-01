@@ -28,7 +28,4 @@ It includes a collapsible sidebar, user dropdown menu, dynamic avatar fallback, 
 | [Tabler Icons](https://tabler.io/icons) | Clean and consistent icons |
 | [Lucide React](https://lucide.dev/) | (Optional) extra icons for future use |
 
----
-
-## 📂 Folder Structure
 
